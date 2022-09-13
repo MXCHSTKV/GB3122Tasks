@@ -1,0 +1,15 @@
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/bin/Debug/net6.0/Sem4Task29
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/bin/Debug/net6.0/Sem4Task29.deps.json
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/bin/Debug/net6.0/Sem4Task29.runtimeconfig.json
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/bin/Debug/net6.0/Sem4Task29.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/bin/Debug/net6.0/Sem4Task29.pdb
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.csproj.AssemblyReference.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.AssemblyInfoInputs.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.AssemblyInfo.cs
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.csproj.CoreCompileInputs.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/refint/Sem4Task29.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.pdb
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/Sem4Task29.genruntimeconfig.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem4Task29/obj/Debug/net6.0/ref/Sem4Task29.dll
