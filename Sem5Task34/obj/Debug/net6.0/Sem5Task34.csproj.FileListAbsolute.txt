@@ -1,0 +1,15 @@
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.csproj.AssemblyReference.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.AssemblyInfoInputs.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.AssemblyInfo.cs
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.csproj.CoreCompileInputs.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/bin/Debug/net6.0/Sem5Task34
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/bin/Debug/net6.0/Sem5Task34.deps.json
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/bin/Debug/net6.0/Sem5Task34.runtimeconfig.json
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/bin/Debug/net6.0/Sem5Task34.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/bin/Debug/net6.0/Sem5Task34.pdb
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/refint/Sem5Task34.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.pdb
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/Sem5Task34.genruntimeconfig.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem5Task34/obj/Debug/net6.0/ref/Sem5Task34.dll
