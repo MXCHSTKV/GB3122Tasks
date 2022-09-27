@@ -1,0 +1,15 @@
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/bin/Debug/net6.0/Sem7Task50
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/bin/Debug/net6.0/Sem7Task50.deps.json
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/bin/Debug/net6.0/Sem7Task50.runtimeconfig.json
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/bin/Debug/net6.0/Sem7Task50.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/bin/Debug/net6.0/Sem7Task50.pdb
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.csproj.AssemblyReference.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.AssemblyInfoInputs.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.AssemblyInfo.cs
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.csproj.CoreCompileInputs.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/refint/Sem7Task50.dll
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.pdb
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/Sem7Task50.genruntimeconfig.cache
+/Users/max/Desktop/GeekBrains/C#/Seminar/GB3122Tasks/Sem7Task50/obj/Debug/net6.0/ref/Sem7Task50.dll
